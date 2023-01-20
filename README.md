@@ -1,2 +1,2 @@
 # simple-blackjack
-<headProject Assumptions</head>
+<head>Project Assumptions</head>
