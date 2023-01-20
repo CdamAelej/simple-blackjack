@@ -1,5 +1,5 @@
 # simple-blackjack
-<head>Project Assumptions</head>
+<h2><b>Project Assumptions</b></h2>
 <ol>
   <li>Working blackjack XD</li>
   <li>Components and controls</li>
